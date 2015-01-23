@@ -4,4 +4,24 @@ html{
 
 h1{
   font-family: 'Coustard', serif;
+  font-size: 2rem;
+  color: #79756f;
+}
+
+h2{
+  font-family: 'Coustard', serif;
+  color: #79756f;
+}
+
+ol{
+  list-style-type: none;
+  padding: 0;
+}
+
+ul{
+  list-style-type: lower-roman;
+}
+
+dt {
+  font-weight: bold;
 }
