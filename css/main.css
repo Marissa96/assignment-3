@@ -36,9 +36,39 @@ blockquote {
 
 footer {
   text-align: right;
-  font-size: 0.75rem;
+  font-size: 0.85rem;
+  color: #79757c;
 }
 
 p {
   font-family: arial, sans-serif;
+}
+
+figcaption {
+  font-style: italic;
+  font-family: arial, sans-serif;
+  font-size: 0.75rem;
+}
+
+a {
+  font-family: arial, sans-serif;
+  color: #803837;
+}
+
+
+
+.word {
+  font-weight: 300;
+  front-size: 1rem;
+  font-family: 'Nunito', sans-serif;
+  font-style: normal;
+  color: #79757c;
+}
+
+b {
+  color: #79757c;
+}
+
+.circle {
+  list-style-type: circle;
 }
