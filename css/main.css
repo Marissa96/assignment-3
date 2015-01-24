@@ -55,8 +55,6 @@ a {
   color: #803837;
 }
 
-
-
 .word {
   font-weight: 300;
   front-size: 1rem;
@@ -69,6 +67,6 @@ b {
   color: #79757c;
 }
 
-.circle {
-  list-style-type: circle;
+a:hover {
+  color: red;
 }
